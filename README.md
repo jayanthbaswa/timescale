@@ -84,7 +84,7 @@ We can perform all the standard SQL operatins(like group by,join etc..,) and als
    - Buckceting and using aggreagations function on timeseries and city
        ![](https://github.com/jayanthbaswa/timescale/blob/master/examples/countrytimescale.png)
    - Basic Operations
-       ![](https://github.com/jayanthbaswa/timescale/blob/master/examples/basic.png)
+       ![](https://github.com/jayanthbaswa/timescale/blob/master/examples/grouping.png)
 
 
 ## Spark
