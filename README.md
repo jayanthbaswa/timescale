@@ -83,7 +83,7 @@ We can perform all the standard SQL operatins(like group by,join etc..,) and als
        ![](https://github.com/jayanthbaswa/timescale/blob/master/examples/citytimeseries.png)
    - Buckceting and using aggreagations function on timeseries and city
        ![](https://github.com/jayanthbaswa/timescale/blob/master/examples/countrytimescale.png)
-   - Basic Operations
+   - Basic Operations like grouping and aggreagations on numeric column
        ![](https://github.com/jayanthbaswa/timescale/blob/master/examples/grouping.png)
 
 
